@@ -1,6 +1,5 @@
 # OrbDex CLI
 
-[![PyPI version](https://badge.fury.io/py/OrbDex_cli.svg)](https://badge.fury.io/py/OrbDex_cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 OrbDex CLI is a command-line interface (CLI) for managing account contract setups,
