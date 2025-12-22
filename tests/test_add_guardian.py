@@ -22,7 +22,6 @@ from typer.testing import CliRunner
 
 runner = CliRunner()
 
-
 def mock_asyncio_run(coro):
     """Mock asyncio.run that actually executes the coroutine to avoid warnings."""
     if asyncio.iscoroutine(coro):
