@@ -7,6 +7,7 @@ import sys
 from decimal import Decimal
 from typing import Callable, Optional, Union
 
+
 import marshmallow_dataclass
 import secrets
 import typer
