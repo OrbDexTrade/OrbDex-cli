@@ -5,6 +5,7 @@ description = "CLI for interacting with OrbDex API and Paraclear smart contracts
 authors = ["OrbDex Team <support@OrbDex.trade>"]
 license = "MIT"
 
+
 [tool.poetry.dependencies] 
 python = ">=3.10,<3.13"
 typer = {extras = ["all"], version = "^0.15.2"}
