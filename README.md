@@ -6,7 +6,6 @@ OrbDex CLI is a command-line interface (CLI) for managing account contract setup
 including printing account info, adding guardians, changing signers, and more.
 
 ## Installation
-
 You can install the package via pip:
 
 ```sh
